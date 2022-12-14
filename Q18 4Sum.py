@@ -14,5 +14,6 @@ for i in range(len(nums)):
                     a0.append(nums[l])
                     if a0 not in ans:
                         ans.append(a0)
+#
 
 print(ans)
